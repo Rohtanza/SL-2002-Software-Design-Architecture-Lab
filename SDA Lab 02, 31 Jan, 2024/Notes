@@ -1,0 +1,28 @@
+
+    1. Describes the overall flow of the system
+    2. it gets breaks down into 4 elements
+
+            2.1 system : anything we develop (app,site,bussiness proccess) | represented : Rectangle.
+
+            2.2 Actor : Somone/something thats interactes with system to achieve a goal. External
+            objects, (place outside system boundry in uml)
+
+                2.2.1 Primary Actor: on left side
+                2.2.2 Secondary Actor: on right side
+
+
+            2.3 Use case : Presents a Action which performs a task in system.
+            2.4 Relationship :
+                2.4.1 Simple:
+                2.4.2 Association Relationship
+                2.4.3 Include Relationship:
+                        Shows dependency b/w base use case and inclusive use case.
+                        it'll be called everytime we execute the base use case.
+                        base use case needs inclusive U.C to work
+                2.4.4 Extend:
+                        a base case doesnt neccesory needs a Extend use case.
+
+
+
+
+

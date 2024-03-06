@@ -1,0 +1,22 @@
+
+    Cilent Server Art Elements:
+        1. User/Client
+        2. Server
+        3. Thick Cilent and thin Client
+        4. 2 Tier, 3 Tier and N-Tier art
+
+    3. Thick(microsoft outlock,react framework) Client is more logical manulpation is on client side and if its more on Server side
+    then its thin client(streaming Application)
+
+    4.  2T : Client ------------ Server Two layers
+        3T : Client ----------- logical manulpation ------- Server
+
+
+
+    Project Proposal:
+    Use cases
+    any related UML
+    which art suits it
+
+
+
